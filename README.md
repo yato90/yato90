@@ -1,6 +1,4 @@
-### Hi 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2578FF&random=false&width=435&lines=I+am+a+Web+developer+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2578FF&random=false&width=435&lines=Hi,+i+am+a+Web+developer+)](https://git.io/typing-svg)
 ### Now
 - 📘 Studying in University
 - 🤝 Open for collab
