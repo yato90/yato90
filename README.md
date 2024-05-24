@@ -5,7 +5,6 @@ I'm a Web developer
 -------------------
 
 ### Now
-- 📘 Studying in University
 - 🤝 Open for collab
 
 ## Tech stack
