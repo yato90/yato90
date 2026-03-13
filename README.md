@@ -3,9 +3,6 @@
 Dmitry web developer
 -------------------
 
-### Now
-- 🤝 Open for collab
-
 ### 🔥 Tech stack
 
 > General
